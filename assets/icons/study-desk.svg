@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Desk_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<circle id="Background" fill="#FEE6A0" cx="256" cy="256" r="256"/>
+<path id="Shadow" opacity="0.1" fill="#231F20" d="M276.208,511.208c128.721-10.053,230.69-115.31,235.587-245.413L423,177H89v16
+	l11,11v131L276.208,511.208z"/>
+<g id="Desk">
+	<g>
+		<rect x="116" y="193" fill="#594A42" width="280" height="76.083"/>
+		<rect x="116" y="193" opacity="0.3" fill="#231F20" width="280" height="76.083"/>
+	</g>
+	<g>
+		<rect x="292.106" y="193" fill="#D4905D" width="103.894" height="76.083"/>
+		<g>
+			<g>
+				<polygon opacity="0.2" points="389.922,197.868 389.922,227.885 296.631,227.885 296.631,229.65 391.476,229.65 
+					391.476,197.868 				"/>
+				<rect x="296.657" y="197.916" fill="#D4905D" width="93.265" height="29.997"/>
+				<path fill="#594A42" d="M346.593,214.038c0,0.471-0.15,0.852-0.336,0.852h-5.935c-0.187,0-0.337-0.381-0.337-0.852l0,0
+					c0-0.471,0.15-0.852,0.337-0.852h5.935C346.442,213.186,346.593,213.567,346.593,214.038L346.593,214.038z"/>
+				<polygon opacity="0.2" fill="#FFFFFF" points="389.922,199.097 389.922,197.916 296.657,197.916 296.657,227.913 
+					298.237,227.913 298.237,199.097 				"/>
+			</g>
+			<g>
+				<polygon opacity="0.2" points="389.922,232.433 389.922,262.45 296.631,262.45 296.631,264.215 391.476,264.215 
+					391.476,232.433 				"/>
+				<rect x="296.657" y="232.46" fill="#D4905D" width="93.265" height="29.997"/>
+				<path fill="#594A42" d="M346.593,248.311c0,0.471-0.15,0.852-0.336,0.852h-5.935c-0.187,0-0.337-0.381-0.337-0.852l0,0
+					c0-0.471,0.15-0.852,0.337-0.852h5.935C346.442,247.458,346.593,247.84,346.593,248.311L346.593,248.311z"/>
+				<polygon opacity="0.2" fill="#FFFFFF" points="389.922,233.641 389.922,232.46 296.657,232.46 296.657,262.457 298.237,262.457 
+					298.237,233.641 				"/>
+			</g>
+		</g>
+		<polygon opacity="0.1" fill="#231F20" points="292.106,193 396,269.083 396,193 		"/>
+	</g>
+	<rect x="89" y="177" fill="#D4905D" width="334" height="16"/>
+	<rect x="292.106" y="193" opacity="0.1" fill="#231F20" width="103.894" height="3.333"/>
+	<g>
+		<g>
+			<rect x="100" y="193" fill="#594A42" width="16" height="142"/>
+			<rect x="100" y="193" opacity="0.3" fill="#231F20" width="16" height="3.333"/>
+		</g>
+		<g>
+			<rect x="396" y="193" fill="#594A42" width="16" height="142"/>
+			<rect x="396" y="193" opacity="0.3" fill="#231F20" width="16" height="3.333"/>
+		</g>
+	</g>
+</g>
+</svg>

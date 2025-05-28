@@ -1,0 +1,154 @@
+
+{
+
+  "layout_order": [
+    "banner_section",
+    "category_section",
+    "deals_section",
+    "offers_section"
+
+  ],
+
+  "banner_section": {
+    "background_color": "0xFF42A5F5",
+    "discount_text": "FLAT 15% OFF",
+    "sub_text": "FREE 72hrs DELIVERY • 300+ Designs • FREE Installation",
+    "button_text": "BUY NOW",
+    "text_color": "0xFFFFFFFF",
+    "images": [
+      "assets/icons/Furniture0.jpg",
+      "assets/icons/Furniture2.jpg"
+    ]
+  },
+  "category_section": {
+    "title": "Buy Furniture",
+    "background_color": "0xFFFFFFFF",
+    "text_color": "0xFF000000",
+    "grid_count" : 4,
+    "icons_size" : 45,
+    "text_Size": 15,
+    "categories": [
+      {
+        "name":  "Living",
+        "icon":  "assets/icons/sofa.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "MEW",
+        "alert_color": "0xFF50C878"
+      },
+
+      {
+        "name":  "Bedroom",
+        "icon":  "assets/icons/bed.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFF50C878"
+      },
+      {
+        "name":  "Door",
+        "icon":  "assets/icons/door.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFF50C878"
+      },
+      {
+        "name":  "Storage",
+        "icon":  "assets/icons/cupboard.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFFE4D00A"
+      },
+      {
+        "name":  "Desk",
+        "icon":  "assets/icons/study-desk.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFFE4D00A"
+      },
+      {
+        "name":  "Bookcase",
+        "icon":  "assets/icons/bookcase.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFFE4D00A"
+      },
+
+      {
+        "name":  "Table",
+        "icon":  "assets/icons/table.svg",
+        "offer_alert":  true,
+        "offer_alert_tsg":  "SALE",
+        "alert_color": "0xFFE4D00A"
+      },
+
+      {
+        "name":  "Dressing",
+        "icon":  "assets/icons/dressing-table.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFF50C878"
+      },
+
+      {
+        "name":  "Chair",
+        "icon":  "assets/icons/chair.svg",
+        "offer_alert":  false,
+        "offer_alert_tsg":  "new",
+        "alert_color": "0xFF50C878"
+      },
+
+     {
+        "name":  "Kitchen",
+        "icon":  "assets/icons/kitchen-sink.svg",
+        "offer_alert":  true,
+        "offer_alert_tsg":  "MEW",
+       "alert_color": "0xFF50C878"
+      }
+
+
+    ]
+  },
+
+
+
+  "offers_section": {
+    "title": "Offers  &  Discounts",
+    "offers" : [
+      {
+        "text": "Extra ₹100 off on SBI card",
+        "sub_text": "Applicable on SBI card.. No code required"
+      },
+      {
+        "text": "Get flat 15% off",
+        "sub_text": "Use coupon"
+      }
+    ]
+  },
+
+  "deals_section": {
+    "isGridList": false,
+    "title": "Deal Of The  Day",
+  "deals" : [
+    {
+      "image":"assets/icons/sofa_chair.png",
+      "title": "Single Seater soft chair",
+      "discount": "80% off",
+      "price": "₹9,499"
+    },
+
+    {
+      "image": "assets/icons/stylesChair.png",
+      "title": "Soft Fabric Styles seat",
+      "discount": "70% off",
+      "price": "₹9,499"
+    },
+
+    {
+      "image": "assets/icons/modernSofa.png",
+      "title": "Flex 3 Seater Magic B..",
+      "discount": "76% off",
+      "price": "₹10,499"
+    }
+  ]
+
+  }
+}
